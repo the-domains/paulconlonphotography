@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Paulconlonphotography]]></title>
         <description><![CDATA[Paulconlonphotography]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/paulconlonphotography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Dec 2015 15:56:34 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 06 Dec 2015 19:55:35 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/paulconlonphotography/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Mountains]]></title>
+            <description><![CDATA[<article><h1>Mountains</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef19d7778fd5b21b6fe122134ff1406f385f678e.jpg"></article>]]></description>
+            <link>https://thegrid.ai/paulconlonphotography/mountains/index.html</link>
+            <guid isPermaLink="false">e8dfb948-f5da-471d-b7ec-94cce715711b</guid>
+            <pubDate>Sun, 06 Dec 2015 19:55:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Landscape]]></title>
             <description><![CDATA[<article><h1>Landscape</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/17561fa786829cfc588f91ece847c909ca3fb709.jpg"></article>]]></description>
-            <link>undefinedlandscape/index.html</link>
+            <link>https://thegrid.ai/paulconlonphotography/landscape/index.html</link>
             <guid isPermaLink="false">ff49fecd-f8d6-44fe-beee-57555d28766a</guid>
             <pubDate>Sun, 06 Dec 2015 15:56:24 GMT</pubDate>
         </item>
