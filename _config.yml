@@ -1,0 +1,28 @@
+name: Paulconlonphotography
+favicon: null
+layout_spectrum: 0.7931463236454874
+typography_spectrum: 0.05696121882647276
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.07059029373340309
+  lightness: 0.8550379921216518
+  saturation: 0.9142572453711182
+  rhythmicContrast: 0.24834585865028203
+purpose: []
